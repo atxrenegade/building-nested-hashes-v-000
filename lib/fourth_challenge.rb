@@ -14,10 +14,10 @@ def fourth_challenge
         age: "15",
         status: "alive"
       },
-      hero_friends: {
-        [name: "Benvolio", age:"17", attitude:"scared"],
-        [name: "Mercutio", age:"18", attitude:"hot-headed"]
-      }
+      hero_friends: [
+        {name: "Benvolio", age:"17", attitude:"scared"},
+        {name: "Mercutio", age:"18", attitude:"hot-headed"}
+      ]  
       
     },
     capulet: {
