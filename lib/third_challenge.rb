@@ -1,4 +1,4 @@
-def fourth_challenge
+def third_challenge
   epic_tragedy = { 
     montague: {
       patriarch: {
@@ -14,10 +14,7 @@ def fourth_challenge
         age: "15",
         status: "alive"
       },
-      hero_friends: [
-        {name: "Benvolio", age:"17", attitude:"worried"},
-        {name: "Mercutio", age:"18", attitude:"hot-headed"}
-      ]  
+      hero_friends: []  
       
     },
     capulet: {
@@ -34,10 +31,7 @@ def fourth_challenge
         age: "15",
         status: "alive"
       },
-      heroine_friends: [
-        {name: "Steven", age: "30", attitude: "confused"},
-        {name: "Nurse", age: "45", attitude: "concerned"}
-      ]
+      heroine_friends: []
     }
 }
 end  
