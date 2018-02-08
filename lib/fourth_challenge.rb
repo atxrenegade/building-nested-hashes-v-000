@@ -34,6 +34,4 @@ def fourth_challenge
       heroine_friends = []
     }
 }
-}
-}
 end  
