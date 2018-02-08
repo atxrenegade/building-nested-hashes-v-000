@@ -16,7 +16,7 @@ def fourth_challenge
       },
       hero_friends = []
       
-    }
+    },
     capulet: {
       patriarch: {
         name: "Lord Capulet",
